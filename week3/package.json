@@ -1,0 +1,15 @@
+{
+  "name": "nodeoefenopdracht",
+  "version": "2.0.0",
+  "description": "hier komt uitwerkingen",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thong",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
